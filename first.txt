@@ -2,6 +2,7 @@
 apple
 banana
 cherry
+kiwi
 #B
 orange
 pineapple
