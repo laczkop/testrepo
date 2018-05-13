@@ -1,6 +1,7 @@
 #A
 apple
 banana
+cherry
 #B
 orange
 pineapple
