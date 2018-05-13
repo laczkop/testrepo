@@ -3,6 +3,7 @@ apple
 banana
 cherry
 kiwi
+pear
 #B
 orange
 pineapple
